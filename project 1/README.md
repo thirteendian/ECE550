@@ -1,4 +1,4 @@
-# ECE 550D Project 1 Duke University
+# ECE 550D Project 1
 # By Yuxuan Yang (NetID: yy340)
 
 I apologize that my previous Group partner join another group without notifying me until 2 days before deadline, so I do not have time to find another one.
